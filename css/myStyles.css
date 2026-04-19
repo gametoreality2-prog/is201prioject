@@ -1,0 +1,37 @@
+body {
+    background-color: #121212; /* dark theme */
+    font-family: Arial, sans-serif;
+    color: #e0e0e0;
+}
+
+.nav {
+    background-color: #1f1f1f;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav a {
+    color: #00ffcc;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    margin: 20px;
+    padding: 15px;
+    background-color: #1e1e2f;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #00bfff;
+}
+
+h2 {
+    color: #ffcc00;
+}
